@@ -1,37 +1,44 @@
-# Kage Tokage // @tokage-dev
+# 🐉 Kage Tokage // @tokage-dev
 
-> Java developer, hoarder of unfinished projects, secretly 3 kobolds in a trenchcoat.
-> I build build apps mostly for myself, but with broader appeal in mind.
-> preferd pronouns: They/Them/Any
+Java developer. Hoarder of unfinished projects. Secretly 3 kobolds in a trenchcoat.
+
+I build apps mostly for myself, but with broader appeal in mind.
+
+_**Preferred pronouns:** They / Them / Any_
+
+---
+
+## 🧠 About Me
+
+Ex-Java developer, currently crawling back into the scene like a well-dressed gremlin.
+
+I love making projects that solve **very specific**, often neurospicy problems—because I’m like that too.  
+From apps that scramble your images into art-chaos to a fridge helper that screams when your yogurt expires, I make what I wish existed.
 
 ---
 
-# About me
+## 🛠️ Currently Working On
 
-Ex Java developer, trying to get back into the scene, full time force of chaos.
-I love making project that solve very specific problems, mostly aimed at neurospicy people, Like myself.
-From projects that turn your images into a scrambled mess, to a fridge helper (WIP) that keeps track of expiration dates, I make it all.
+- **FridgeBuddy** – The fridge assistant your brain didn’t know it needed.
+- **Runelite Streamer Plugin** – Combines external tools + plugin hooks for stream-friendly overlays.
+- **Runelite Utils** – A grab-bag of handy plugins to save me from math.
+- **Runelite Pet Chance Tracker** - Tracks the chance you had a pet, so you can question your life choices.
+- **KoboldHoarder NEO** – A joke project turned centerpiece for showcasing my dev skills.
+- **VaultLin** – TOTP + PIN protected local vault for master passwords and other secrets.
+- **Pixelator V2** – A cleaned-up, modular remake of my [old Pixelator app](https://github.com/SpyroManiac/Pixelizer) with fresh features.
 
-Currently I am working on:
-> FridgeBuddy: the fridge assistant your brain didn't realize it needed.
-> Runelite streamer plugin: An external tool/internal plugin combination to show ingame info in a streamer friendly layout.
-> Runelite utils: a small collection of personal util plugins, just so I don't have to grab a calculator.
-> KoboldHoarder NEO: a bit of a joke project meant to get me back into coding, is currently becoming a centerpiece for future employers to see all my different skills.
-> VaultLin: Encryptes secret keeper, with TOTP and pin support, for that masterpassword to your passwordmanager, and other less critical info.
-> Pixelator V2: A library version of my [old Pixelator app](https://github.com/SpyroManiac/Pixelizer), on my old git, with new features planned.
-
- and many many more, the hoard of projects will keep growing!
+> *...and many more. The project hoard only grows.*
 
 ---
-You can reach me at:
-- Email: [TheDraconicCurator@gmail.com](mailto:TheDraconicCurator@gmail.com)
-- Website: [tokage.dev](tokage.dev) *soon-ish*
-- twitter: [@TokageArt](https://x.com/TokageArt)/[@The draconic curator](https://x.com/DraconicCurator)
-- BluSky: [@TokageArt](‪@tokageart.bsky.social‬)/[@The draconic curator](‪@thedraconiccurator.bsky.social‬)
 
-The latter 2 social links are for a bigger project, stay tuned!
+## 📬 You Can Reach Me At:
 
-<!---
-Tokage-dev/Tokage-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 **Email**: [TheDraconicCurator@gmail.com](mailto:TheDraconicCurator@gmail.com)
+- 🌐 **Website**: [tokage.dev](https://tokage.dev) *(coming soon)*
+- 🐦 **Twitter**: [@TokageArt](https://x.com/TokageArt) / [@DraconicCurator](https://x.com/DraconicCurator)
+- 🌌 **Bluesky**: [@tokageart.bsky.social](https://bsky.app/profile/tokageart.bsky.social) / [@thedraconiccurator.bsky.social](https://bsky.app/profile/thedraconiccurator.bsky.social)
+
+> *The latter two are tied to a bigger lore project. Stay tuned!*
+
+---
+
